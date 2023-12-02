@@ -17,3 +17,6 @@
 - Netfix Gpt
     - Search bar
     - Movie Suggestions
+
+- Libraries
+ - Formik

@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.login-top-section{
+  background-image: linear-gradient(63deg, rgba(0, 0, 0, 0.9000) 26.00%, rgba(0, 0, 0, 0.8965) 30.83%, rgba(0, 0, 0, 0.8861) 35.67%, rgba(0, 0, 0, 0.8688) 40.50%, rgba(0, 0, 0, 0.8444) 45.33%, rgba(0, 0, 0, 0.8132) 50.17%, rgba(0, 0, 0, 0.7750) 55.00%, rgba(0, 0, 0, 0.7368) 59.83%, rgba(0, 0, 0, 0.7056) 64.67%, rgba(0, 0, 0, 0.6812) 69.50%, rgba(0, 0, 0, 0.6639) 74.33%, rgba(0, 0, 0, 0.6535) 79.17%, rgba(0, 0, 0, 0.6500) 84.00%),url(https://assets.nflxext.com/ffe/siteui/vlv3/c906271d-7184-4eec-83c9-b6d4c1a068ec/728874a6-eeda-400a-9bcf-a935a1408a4f/IN-en-20231127-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  width: 100%;
+
+}
+
+.login-top-section form{
+  top: 40%;
+  right: 40%;
+}
+.width-100{
+  width: 100%;
+}
+.netfilx-header-logo>img{
+  z-index: 999;
+  position: relative;
+  width: 200px;
+
+}
+
+.header{
+  
+}
